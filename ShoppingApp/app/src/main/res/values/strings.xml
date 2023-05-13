@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="logoimage">logoImage</string>
+    <string name="mainPage">Главная</string>
+    <string name="BuyTV">Корзина</string>
+    <string name="Title">Наши товары</string>
+    <string name="itemimg">itemImg</string>
+    <string name="button_str">+</string>
+    <string name="item_description">описание товара</string>
+    <string name="plus_btn">+</string>
+    <string name="Order">Корзина</string>
+
+</resources>
